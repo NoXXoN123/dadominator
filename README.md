@@ -5,5 +5,5 @@ O
 A
 D
 
-
 # licence: Apache 2.0
+naprogramováno v Lua
